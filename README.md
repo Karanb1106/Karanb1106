@@ -91,8 +91,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanb1106&show_icons=true&locale=en&layout=compact" alt="karanb1106" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanb1106&show_icons=true&locale=en" alt="karanb1106" /></p>
