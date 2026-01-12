@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Karanb1106/Karanb1106/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Karan Ajay Bhavsar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
@@ -77,29 +77,24 @@
 
 <!-- TOOLS -->
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/>
-
 </p>
 
 ---
-
 
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanb1106&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karanb1106&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanb1106&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanb1106&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karanb1106&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=karanb1106&theme=tokyonight&cache_seconds=1800" />
 </p>
-
----
 
 
 <!-- BLOG-POST-LIST:START -->
