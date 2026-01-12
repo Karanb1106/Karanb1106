@@ -99,10 +99,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=karanb1106&theme=tokyonight"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=karanb1106" />
 </p>
 
 
