@@ -84,13 +84,23 @@
 ### 📊 GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karanb1106&theme=tokyo-night)
-### 📊 GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karanb1106&theme=tokyonight)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanb1106&theme=tokyonight)
+### 📊 GitHub Analytics
 
-![Streak](https://streak-stats.demolab.com/?user=karanb1106)
+<div align="center">
+
+| Stats | Languages |
+|-------|-----------|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karanb1106&theme=tokyonight) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanb1106&theme=tokyonight) |
+
+</div>
+
+### 📊 GitHub Streaks
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=karanb1106" />
+</p>
+
 
 
 
