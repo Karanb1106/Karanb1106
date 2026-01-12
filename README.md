@@ -83,11 +83,14 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanb1106&show_icons=true&cache_seconds=21600)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karanb1106&theme=tokyo-night)
+### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanb1106&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karanb1106&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=karanb1106)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanb1106&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=karanb1106)
 
 
 
