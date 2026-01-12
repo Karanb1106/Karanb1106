@@ -83,7 +83,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanb1106&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanb1106&show_icons=true&cache_seconds=21600)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanb1106&layout=compact&theme=tokyonight&hide_border=true)
 
